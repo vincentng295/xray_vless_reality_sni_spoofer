@@ -1,5 +1,7 @@
 # 🚀 Relay Bypass Server (VLESS Reality + FRP)
 
+> Nhà mạng đã vá phương pháp SNI Spoof. Vui lòng kham khảo thêm [vincentng295/xray_vless_ws_server](https://github.com/vincentng295/xray_vless_ws_server) về cách tận dụng CDN Cloudflare để qua mặt bộ máy tính cước của nhà mạng!
+
 Chào mừng bạn đến với **Relay Bypass Server**. Đây là một giải pháp mã nguồn mở giúp bạn xây dựng một server proxy cá nhân mạnh mẽ, hỗ trợ vượt qua các rào cản kiểm duyệt và tối ưu hóa tốc độ mạng thông qua cơ chế **SNI Bypass**.
 
 Dự án này kết hợp sức mạnh của **Xray-core** (Giao thức VLESS Reality) và **FRP** (Fast Reverse Proxy) để tạo ra một đường truyền bảo mật, khó bị phát hiện bởi các hệ thống tường lửa.
